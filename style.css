@@ -1,0 +1,28 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+.button1{
+  position:absolute;
+  left:330px;
+  top:300px;
+  background-color: orange;
+  color:brown;
+  font-size: 40px;
+  text-align: center;
+}
+.text1{
+  position:absolute;
+  left:250px;
+  top:50px;
+  color:yellow;
+}
+.text2{
+  position:absolute;
+  left:250px;
+  top:100px;
+  color:rgb(255, 255, 0);
+}
