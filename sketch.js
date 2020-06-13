@@ -1,7 +1,7 @@
 var button1, input1, text1, age1, ageinput1, age;
 var bg;
 function preload(){
-  bg = loadImage("assets/bg.png");
+  bg = loadImage("bg.png");
 }
 function setup(){
   createCanvas(800,400);
